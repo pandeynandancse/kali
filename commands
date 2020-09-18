@@ -57,3 +57,10 @@ a)  whoami
              rm -r fol*  /// remove all folder satrting with fol
              rm -r *old*  // removbe all folder whose name consists 'old'
              same applied with mv , cp, cd|
+             
+          
+          
+ 17) lsof
+      lsof | grep
+      
+      kill 5_digit_process_id
